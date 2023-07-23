@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Sun, 23 Jul 2023 13:39:19 +0530
+Source: my-app
+Binary: my-app
+Architecture: all
+Version: 1.0.0
+Distribution: unknown
+Urgency: low
+Maintainer: Your Name <your.email@example.com>
+Changed-By: Your Name <your.email@example.com>
+Description:
+ my-app - My App Description
+Changes:
+ my-app (1.0.0) unknown; urgency=low
+Checksums-Sha1:
+ 1d93ce12094ef510f583e59893e09c494fa95961 2886 my-app_1.0_all.deb
+Checksums-Sha256:
+ fe64a1c9f1f0212147b2725d330c8b6d1a70d09ba8527d83c9dee2173f293467 2886 my-app_1.0_all.deb
+Files:
+ 9ce5f937922cf49fbc4be8f27382c692 2886 misc optional my-app_1.0_all.deb
